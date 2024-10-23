@@ -1,5 +1,5 @@
 function doGet() {
-    return HtmlService.createHtmlOutputFromFile('index.html'); // Загружаем HTML файл
+    return HtmlService.createHtmlOutputFromFile('https://github.com/carbozor/internet/blob/main/internet/index.html'); // Загружаем HTML файл
   }
   
   function getAllDataWithImages() {
